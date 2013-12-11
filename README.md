@@ -6,6 +6,8 @@
 
 A tool to track down object leaks in a Ruby process.
 
+[API documentation for master branch](http://rubydoc.info/github/mark-rushakoff/click/master)
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -19,10 +21,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install click
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Example
 
